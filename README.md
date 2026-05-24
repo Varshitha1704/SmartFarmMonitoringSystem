@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Farm Monitoring and Disease Prediction System
 
 Java Swing desktop application for smart farm sensor monitoring, weather prediction, analytics, pump automation, alerts, and AI-based plant disease prediction.
@@ -50,7 +49,3 @@ Admin: admin / admin123
 - Leaf image upload preview
 - Disease result with cause, pesticide, and prevention tips
 - MySQL persistence hooks with demo fallback
-=======
-# SmartFarmMonitoringSystem
-AI-based Smart Farm Monitoring System using Java, TensorFlow, and Python
->>>>>>> cb8c5b453dad939ce6d09096fccbc8557bd39acc
