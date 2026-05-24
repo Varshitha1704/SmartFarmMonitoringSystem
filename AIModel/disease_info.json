@@ -1,0 +1,57 @@
+{
+  "Leaf Rust": {
+    "cause": "Fungal spores spread quickly in humid weather.",
+    "pesticide": "Propiconazole spray",
+    "prevention": "Improve airflow, remove infected leaves, and avoid overhead irrigation."
+  },
+  "Early Blight": {
+    "cause": "Alternaria fungus usually affects older leaves first.",
+    "pesticide": "Mancozeb or copper fungicide",
+    "prevention": "Rotate crops, mulch soil, and keep leaves dry."
+  },
+  "Powdery Mildew": {
+    "cause": "White fungal growth encouraged by crowded plants.",
+    "pesticide": "Sulfur-based fungicide",
+    "prevention": "Use resistant varieties and prune crowded foliage."
+  },
+  "Healthy": {
+    "cause": "No strong disease pattern detected.",
+    "pesticide": "No pesticide required",
+    "prevention": "Continue monitoring moisture, temperature, and leaf color."
+  },
+  "Tomato Late blight": {
+    "cause": "Late blight is commonly caused by Phytophthora infestans and spreads fast in cool, wet conditions.",
+    "pesticide": "Copper oxychloride or mancozeb as advised by local agriculture guidance",
+    "prevention": "Remove infected leaves, avoid overhead watering, improve airflow, and destroy badly infected plant material."
+  },
+  "Tomato Leaf Mold": {
+    "cause": "Leaf mold is a fungal disease favored by high humidity and poor ventilation.",
+    "pesticide": "Copper-based fungicide or chlorothalonil as locally recommended",
+    "prevention": "Increase spacing, prune dense foliage, ventilate protected crops, and avoid wet leaves."
+  },
+  "Tomato Septoria leaf spot": {
+    "cause": "Septoria fungus causes small dark leaf spots and spreads through water splash.",
+    "pesticide": "Mancozeb or copper fungicide as locally recommended",
+    "prevention": "Remove infected lower leaves, mulch soil, rotate crops, and keep foliage dry."
+  },
+  "Tomato Healthy": {
+    "cause": "No strong disease pattern detected.",
+    "pesticide": "No pesticide required",
+    "prevention": "Continue monitoring moisture, temperature, and leaf color."
+  },
+  "Late blight": {
+    "cause": "Late blight is commonly caused by Phytophthora infestans and spreads fast in cool, wet conditions.",
+    "pesticide": "Copper oxychloride or mancozeb as advised by local agriculture guidance",
+    "prevention": "Remove infected leaves, avoid overhead watering, improve airflow, and destroy badly infected plant material."
+  },
+  "Leaf Mold": {
+    "cause": "Leaf mold is a fungal disease favored by high humidity and poor ventilation.",
+    "pesticide": "Copper-based fungicide or chlorothalonil as locally recommended",
+    "prevention": "Increase spacing, prune dense foliage, ventilate protected crops, and avoid wet leaves."
+  },
+  "Septoria leaf spot": {
+    "cause": "Septoria fungus causes small dark leaf spots and spreads through water splash.",
+    "pesticide": "Mancozeb or copper fungicide as locally recommended",
+    "prevention": "Remove infected lower leaves, mulch soil, rotate crops, and keep foliage dry."
+  }
+}
